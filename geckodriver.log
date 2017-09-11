@@ -1,0 +1,1185 @@
+1504023043632	geckodriver	INFO	geckodriver 0.18.0
+1504023043632	geckodriver	INFO	Listening on 127.0.0.1:51301
+1504023045695	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504023046321	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504023046806	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023048971	Marionette	INFO	Listening on port 51310
+1504023049093	Marionette	INFO	Listening on port 51310
+1504023049414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504023049474	Marionette	DEBUG	loaded listener.js
+1504023049506	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023059491	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023059532	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504023059532	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504023059533	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483652"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8076] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023078362	geckodriver	INFO	geckodriver 0.18.0
+1504023078378	geckodriver	INFO	Listening on 127.0.0.1:51372
+1504023080459	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504023080859	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504023081414	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13728] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11524] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11524] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023084152	Marionette	INFO	Listening on port 51382
+1504023084229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504023084260	Marionette	INFO	Listening on port 51382
+1504023084618	Marionette	DEBUG	loaded listener.js
+1504023084679	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023097969	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504023097969	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504023100585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-6231267-9202304?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504023102767	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504023103413	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504023103494	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-6231267-9202304?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504023104210	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-6231267-9202304?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504023104658	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-6231267-9202304?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504023104660	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-6231267-9202304?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504023104744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504023104744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504023104745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1504023104745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504023104745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1504023105340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1504023105820	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/gp/huc/view.html?ie=UTF8&newItems=C3NC95KOPKDG4G%2C4"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504023122469	geckodriver	INFO	geckodriver 0.18.0
+1504023122484	geckodriver	INFO	Listening on 127.0.0.1:52263
+1504023124531	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504023124889	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504023125366	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4368] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023127790	Marionette	INFO	Listening on port 52276
+1504023127807	Marionette	INFO	Listening on port 52276
+1504023128249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504023128300	Marionette	DEBUG	loaded listener.js
+1504023128330	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023141427	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504023141427	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504023143491	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/260-5494176-9157525?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504023149908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504023149908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504023149908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504023149909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504023149909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483652"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4368] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023151867	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504023239355	geckodriver	INFO	geckodriver 0.18.0
+1504023239370	geckodriver	INFO	Listening on 127.0.0.1:52454
+1504023241422	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504023241786	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504023242248	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14348] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13712] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13712] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023244500	Marionette	INFO	Listening on port 52464
+1504023244710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504023244740	Marionette	INFO	Listening on port 52464
+1504023245120	Marionette	DEBUG	loaded listener.js
+1504023245196	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023249318	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023249385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504023249385	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504023249387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14348] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023321338	geckodriver	INFO	geckodriver 0.18.0
+1504023321338	geckodriver	INFO	Listening on 127.0.0.1:52572
+1504023323401	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504023323753	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504023324202	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1756] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1756] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023326536	Marionette	INFO	Listening on port 52581
+1504023326554	Marionette	INFO	Listening on port 52581
+1504023326630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504023326822	Marionette	DEBUG	loaded listener.js
+1504023326872	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023330027	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023330103	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504023330103	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504023330106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10988] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10988] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023331533	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1504023376073	geckodriver	INFO	geckodriver 0.18.0
+1504023376073	geckodriver	INFO	Listening on 127.0.0.1:52670
+1504023378155	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504023378478	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504023378947	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10924] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023381250	Marionette	INFO	Listening on port 52678
+1504023381293	Marionette	INFO	Listening on port 52678
+1504023381375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504023381650	Marionette	DEBUG	loaded listener.js
+1504023381695	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023383172	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023383226	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504023383226	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504023383228	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023383375	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1504023447735	geckodriver	INFO	geckodriver 0.18.0
+1504023447750	geckodriver	INFO	Listening on 127.0.0.1:52773
+1504023449797	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504023450126	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504023450594	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023452846	Marionette	INFO	Listening on port 62587
+1504023452862	Marionette	INFO	Listening on port 62587
+1504023452979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504023453129	Marionette	DEBUG	loaded listener.js
+1504023453181	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504023458947	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504023458948	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504023461086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/262-2339184-0883558?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504023462635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504023462635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504023462635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1504023462636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504023462637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023544338	geckodriver	INFO	geckodriver 0.18.0
+1504023544338	geckodriver	INFO	Listening on 127.0.0.1:62762
+1504023546400	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504023546727	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504023547248	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023549430	Marionette	INFO	Listening on port 62772
+1504023549482	Marionette	INFO	Listening on port 62772
+1504023549629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504023549682	Marionette	DEBUG	loaded listener.js
+[GPU 7812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3724] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504023550946	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[GPU 7812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504024613097	geckodriver	INFO	geckodriver 0.18.0
+1504024613113	geckodriver	INFO	Listening on 127.0.0.1:65406
+1504024615181	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504024615502	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504024616017	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504024618382	Marionette	INFO	Listening on port 65417
+1504024618395	Marionette	INFO	Listening on port 65417
+1504024618877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504024618911	Marionette	DEBUG	loaded listener.js
+1504024618937	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504024631685	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504024631685	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504024633486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/260-6674242-2115905?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504024634893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504024635031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504024635928	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504024636233	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504024636254	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/260-6674242-2115905?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504024636712	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/260-6674242-2115905?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504024637144	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/260-6674242-2115905?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504024637148	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/260-6674242-2115905?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504024637268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504024637268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504024637268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1504024637269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504024637269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1504024637269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1504024637918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1504024638354	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/gp/huc/view.html?ie=UTF8&newItems=C3NC95KOPKDG4G%2C4"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x920027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12904] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504591106757	geckodriver	INFO	geckodriver 0.18.0
+1504591106765	geckodriver	INFO	Listening on 127.0.0.1:57966
+1504591108856	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504591111457	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504591111886	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504591113898	Marionette	INFO	Listening on port 57973
+1504591113915	Marionette	INFO	Listening on port 57973
+1504591114240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504591114300	Marionette	DEBUG	loaded listener.js
+1504591114334	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504591114999	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504591115000	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504591116960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-2060778-0666657?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591116965	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-2060778-0666657?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591117328	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-2060778-0666657?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591118197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504591118281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591118699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591118720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=3011504591118244&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591118245&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591118888	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591118969	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=3011504591118244&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591118245&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591118975	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=3011504591118244&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591118245&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591118976	Marionette	DEBUG	Received DOM event "pageshow" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504591118984	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=3011504591118244&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591118245&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591118985	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=3011504591118244&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591118245&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591119089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1504591119093	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 13968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504591190769	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1504591190770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504591190770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504591190770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504591190771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1504591190771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1504591190771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1504591190771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1504591190772	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[GPU 13968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504591200413	geckodriver	INFO	geckodriver 0.18.0
+1504591200422	geckodriver	INFO	Listening on 127.0.0.1:58073
+1504591202504	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504591202793	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504591203175	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4708] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1360] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504591204866	Marionette	INFO	Listening on port 58079
+1504591204891	Marionette	INFO	Listening on port 58079
+1504591205686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504591205763	Marionette	DEBUG	loaded listener.js
+1504591205795	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504591206466	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504591206466	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504591208252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-4278036-6921365?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591209169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591209702	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591280478	geckodriver	INFO	geckodriver 0.18.0
+1504591280486	geckodriver	INFO	Listening on 127.0.0.1:58152
+1504591282548	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504591282857	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504591283232	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504591284917	Marionette	INFO	Listening on port 58158
+1504591284937	Marionette	INFO	Listening on port 58158
+1504591285753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504591285824	Marionette	DEBUG	loaded listener.js
+1504591285870	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504591286542	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504591286542	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504591288583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-7156314-7943215?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591289604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591289899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591290139	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591290516	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591290525	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-7156314-7943215?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591290938	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-7156314-7943215?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591291310	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-7156314-7943215?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591291317	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/257-7156314-7943215?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591291398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504591291398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504591291398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1504591291398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504591291399	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1504591291399	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1504591291986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1504591292134	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/gp/huc/view.html?ie=UTF8&newItems=C3NC95KOPKDG4G%2C1"
+[GPU 10732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+1504591311112	geckodriver	INFO	geckodriver 0.18.0
+1504591311120	geckodriver	INFO	Listening on 127.0.0.1:58288
+1504591313181	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504591313463	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504591313862	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504591315568	Marionette	INFO	Listening on port 58294
+1504591315586	Marionette	INFO	Listening on port 58294
+1504591316356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504591316415	Marionette	DEBUG	loaded listener.js
+1504591316457	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504591317127	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504591317128	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504591318377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-5714599-4830233?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591318380	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-5714599-4830233?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591319153	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-5714599-4830233?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591319821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504591320276	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591320470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404%2C17300000&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=2501504591319895&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591319897&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591320552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591320691	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404%2C17300000&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=2501504591319895&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591319897&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591320702	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404%2C17300000&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=2501504591319895&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591319897&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591320705	Marionette	DEBUG	Received DOM event "pageshow" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504591320784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404%2C17300000&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=2501504591319895&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591319897&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591320785	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=Sfu%20E%20Com%20Chocolate%20Gift%20Basket&adpage=1&gl=in&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404%2C17300000&client=amazon-in&channel=g-channel-151%2Bg-channel-83&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n3&ad=n3&nocache=2501504591319895&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504591319897&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504591320921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1504591321009	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591321200	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504591321212	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-5714599-4830233?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591321553	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-5714599-4830233?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591322158	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-5714599-4830233?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591322162	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.in/Sfu-Com-Chocolate-Gift-Basket/dp/B072LDTGC7/258-5714599-4830233?_encoding=UTF8&portal-device-attributes=desktop&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00"
+1504591322317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1504591322320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1504591322320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504591322321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504591322321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1504591322321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504591322322	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504591322322	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1504591322322	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1504591322323	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1504591322758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.in/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1504591322971	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.in/gp/huc/view.html?ie=UTF8&newItems=C3NC95KOPKDG4G%2C1"
+[GPU 14308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+1504620577977	geckodriver	INFO	geckodriver 0.18.0
+1504620577986	geckodriver	INFO	Listening on 127.0.0.1:55218
+1504620580030	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504620580640	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620581069	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620582950	Marionette	INFO	Listening on port 55226
+1504620582973	Marionette	INFO	Listening on port 55226
+1504620583214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620583262	Marionette	DEBUG	loaded listener.js
+1504620583284	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620583704	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620583705	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620587176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620588126	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620588272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620588272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620588272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620588377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620588573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620588575	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620588964	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620589009	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620589268	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620589684	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620589698	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+[GPU 16424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620628173	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11428] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620629940	Marionette	INFO	Listening on port 55351
+1504620629955	Marionette	INFO	Listening on port 55351
+1504620630631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620630694	Marionette	DEBUG	loaded listener.js
+1504620630780	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620631216	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620631216	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620634370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620634907	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620635467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620635469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620635471	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620635472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620635481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620635482	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620635601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620636408	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620636486	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620636593	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620636619	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620637573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620637848	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620638173	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/31-iBjiv47L.css?AUIClients/DetailPageOffersDPv2Assets"
+1504620638173	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/11zFhuTDFqL._RC|11ikU6MX1JL.css,01uwSfX2vxL.css,11oOVW2SqmL.css,21lr10GI3YL.css,01OT3mZ3tNL.css,11xRy3bSkOL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01FlII1u-ZL.css,01KeIGNrFnL.css,01QUs5FVXoL.css,11MXghh1eBL.css,01hvfEvfPgL.css,41A3MwXNi4L.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01rgQ3jqo7L.css,21Ijkd8tJsL.css,31-iBjiv47L.css,11X8K4AolpL.css,21PjfsP9YvL.css,314F2rZxPML.css,014Z+MbaRaL.css,016xTzXJLfL.css,3169f1sLGXL.css,01ZGR4PDSTL.css,218XVPWf2YL.css,01rgQ3jqo7L.css_.css?AUIClients/USHardlinesDetailPageMetaAssetFixed2#desktop.us.not-trident.108310-T1"
+1504620638174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1504620638174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1504620638177	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/51-LYPhMJeL._RC|11zFhuTDFqL.css,21lcA-0gDcL.css,01uwSfX2vxL.css,01bQbKG2BJL.css,010uqF0UmhL.css,11oOVW2SqmL.css,31uTL6-TJHL.css,11MXghh1eBL.css,01hvfEvfPgL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,016xTzXJLfL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,21TMHZS2y1L.css,01JOvs9kD8L.css,01FlII1u-ZL.css,21xKLiG6uEL.css,21thLxrpr2L.css,31-iBjiv47L.css,21PjfsP9YvL.css_.css?AUIClients/USMediaDetailPageMetaAsset#desktop.us.114039-C.102038-T1.108941-T1"
+1504620638180	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1504620638185	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620638188	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620638197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/I/6104e6DYOJL._RC|11KJC9cObxL.css,31RN0gaJuqL.css,21fiFnLYxlL.css,31ZQTpsW1eL.css,01NHva6qGRL.css,31UlxNhlUML.css,01sYsDokgTL.css_.css?AUIClients/NavDesktopMetaAsset#desktop"
+1504620638206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/I/416LyOTTWiL._RC|41kk+BrwEDL.css,11zFhuTDFqL.css,31uTL6-TJHL.css,21lcA-0gDcL.css,01uwSfX2vxL.css,11oOVW2SqmL.css,01OT3mZ3tNL.css,41SPGpKPIoL.css,21lr10GI3YL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01KeIGNrFnL.css,01hvfEvfPgL.css,11zlxLNA7DL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01QLwk8mu6L.css,014Z+MbaRaL.css,016xTzXJLfL.css,01ZGR4PDSTL.css,018mGORJ7tL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,01JOvs9kD8L.css_.css?AUIClients/USSoftlinesDetailPageMetaAsset#desktop.us.114039-C.102038-T1.90283-T1"
+1504620638360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504620638360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504620638360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504620638361	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504620638361	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1504620638361	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504620638362	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1504620638362	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1504620638362	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1504620638363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1504620638363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1504620638363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1504620638999	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/136-6842420-7363424"
+1504620639505	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/136-6842420-7363424"
+[GPU 11428] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620642785	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620644642	Marionette	INFO	Listening on port 55461
+1504620644661	Marionette	INFO	Listening on port 55461
+1504620645071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620645126	Marionette	DEBUG	loaded listener.js
+1504620645165	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620645561	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620645562	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620648515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620649418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620649840	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620650498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620650743	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620650982	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620650984	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620651048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620651131	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620651173	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620651270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620651272	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620651807	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620652248	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620652650	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504620680350	geckodriver	INFO	geckodriver 0.18.0
+1504620680360	geckodriver	INFO	Listening on 127.0.0.1:55577
+1504620682430	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504620683029	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620683528	Marionette	INFO	Enabled via --marionette
+1504620685394	Marionette	INFO	Listening on port 55583
+1504620685409	Marionette	INFO	Listening on port 55583
+1504620685592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620685643	Marionette	DEBUG	loaded listener.js
+1504620685678	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620686626	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620686627	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620690389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620691329	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620691349	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620691589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620691590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620691658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620691771	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620691776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620691778	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620691976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620692472	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620692683	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620692686	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620693011	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620693074	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620693929	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620693932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620694208	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620694506	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620694510	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620694703	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1504620694703	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504620694703	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504620694703	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504620694704	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1504620694704	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1504620694704	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504620694705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1504620694705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504620694706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1504620694706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1504620695679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/145-3499105-2776968"
+1504620696656	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/145-3499105-2776968"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16736] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620700608	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620702910	Marionette	INFO	Listening on port 55691
+1504620702933	Marionette	INFO	Listening on port 55691
+1504620702989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620703102	Marionette	DEBUG	loaded listener.js
+1504620703155	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620703704	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620703704	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620708229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620709455	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620710109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620710113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620710127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620710131	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620710370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620710478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620711491	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620711517	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620711534	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620711677	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620711835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620712744	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620713042	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620713134	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620713481	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/51Zj6XZZ9IL._RC|01evdoiemkL.css,01pVbSC-RPL.css,01K+Ps1DeEL.css,31ucbE7hMML.css,01weYufn8+L.css,11Q+QzSCWIL.css,21XNrWobyaL.css,11g4ZqMHAkL.css,21Pd9HarLOL.css,01jl8u4Wi8L.css,21znlrDU3OL.css,01LJGuGyVyL.css,11hxuo-NCqL.css,11vZhCgAHbL.css,21RNFprmuBL.css,11WgRxUdJRL.css,01dU8+SPlFL.css,01otSwXAWaL.css,01SHjPML6tL.css,11e2M+GTQOL.css,01QrWuRrZ-L.css,31TwjE5BCgL.css,011Rz5p0uEL.css_.css?AUIClients/AmazonUI#us.not-trident"
+1504620713495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1504620713496	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/01LMjsmRmmL._RC|013M5VFdBhL.css_.css?AUIClients/DetailPageTurboCheckoutDesktopMetaAsset"
+1504620713498	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/416LyOTTWiL._RC|41kk+BrwEDL.css,11zFhuTDFqL.css,31uTL6-TJHL.css,21lcA-0gDcL.css,01uwSfX2vxL.css,11oOVW2SqmL.css,01OT3mZ3tNL.css,41SPGpKPIoL.css,21lr10GI3YL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01KeIGNrFnL.css,01hvfEvfPgL.css,11zlxLNA7DL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01QLwk8mu6L.css,014Z+MbaRaL.css,016xTzXJLfL.css,01ZGR4PDSTL.css,018mGORJ7tL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,01JOvs9kD8L.css_.css?AUIClients/USSoftlinesDetailPageMetaAsset#desktop.us.114039-C.102038-T1.90283-T1"
+1504620713499	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1504620713499	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/51-LYPhMJeL._RC|11zFhuTDFqL.css,21lcA-0gDcL.css,01uwSfX2vxL.css,01bQbKG2BJL.css,010uqF0UmhL.css,11oOVW2SqmL.css,31uTL6-TJHL.css,11MXghh1eBL.css,01hvfEvfPgL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,016xTzXJLfL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,21TMHZS2y1L.css,01JOvs9kD8L.css,01FlII1u-ZL.css,21xKLiG6uEL.css,21thLxrpr2L.css,31-iBjiv47L.css,21PjfsP9YvL.css_.css?AUIClients/USMediaDetailPageMetaAsset#desktop.us.114039-C.102038-T1.108941-T1"
+1504620713500	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1504620713500	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1504620713518	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/6104e6DYOJL._RC|11KJC9cObxL.css,31RN0gaJuqL.css,21fiFnLYxlL.css,31ZQTpsW1eL.css,01NHva6qGRL.css,31UlxNhlUML.css,01sYsDokgTL.css_.css?AUIClients/NavDesktopMetaAsset#desktop"
+1504620713519	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1504620713531	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/11zFhuTDFqL._RC|11ikU6MX1JL.css,01uwSfX2vxL.css,11oOVW2SqmL.css,21lr10GI3YL.css,01OT3mZ3tNL.css,11xRy3bSkOL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01FlII1u-ZL.css,01KeIGNrFnL.css,01QUs5FVXoL.css,11MXghh1eBL.css,01hvfEvfPgL.css,41A3MwXNi4L.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01rgQ3jqo7L.css,21Ijkd8tJsL.css,31-iBjiv47L.css,11X8K4AolpL.css,21PjfsP9YvL.css,314F2rZxPML.css,014Z+MbaRaL.css,016xTzXJLfL.css,3169f1sLGXL.css,01ZGR4PDSTL.css,218XVPWf2YL.css,01rgQ3jqo7L.css_.css?AUIClients/USHardlinesDetailPageMetaAssetFixed2#desktop.us.not-trident.108310-T1"
+1504620713531	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1504620713535	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620713539	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620713763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504620713763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504620713764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1504620713764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504620713764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1504620713765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1504620713765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1504620713765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1504620713765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1504620713765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1504620714106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/137-1718692-5564565"
+1504620714548	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/137-1718692-5564565"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x920027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+ovider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620718252	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620720691	Marionette	INFO	Listening on port 55810
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16852] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16852] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620720708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620720726	Marionette	INFO	Listening on port 55810
+1504620720764	Marionette	DEBUG	loaded listener.js
+1504620720800	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620721210	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620721211	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620724111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620725034	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620725331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620725374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620725374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620725506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620725509	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620725515	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620725707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620726225	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620726607	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620726644	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620727165	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620727831	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620727862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620727913	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/214q28gHRFL._RC|21d4Z7ov3AL.js,01VtYReatCL.js,41zhCEoqR4L.js,31I-BifbuzL.js,31bJhawORuL.js,41I40+3voZL.js,21s4CoXkkoL.js,21d0m9V5eVL.js,01ePd6UuedL.js,51FdHIKR98L.js,01MZJG6lH8L.js,01QIokpOpzL.js,01NTNyi6e4L.js,01CX6dBfvxL.js,214lo5cb6vL.js,01jG8Exvx6L.js_.js?AUIClients/USHardlinesDetailPageMetaAssetVariable2#desktop.us.109732-T1.108453-T1.103310-T1, line 71: TypeError: b is undefined
+1504620728209	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620728213	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620728405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504620728405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504620728406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1504620728406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504620728406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1504620728407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1504620728407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1504620728407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1504620728408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1504620728408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1504620728643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/139-7368771-0927141"
+1504620729366	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/139-7368771-0927141"
+[GPU 2292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+//gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620732833	Marionette	INFO	Enabled via --marionette
+1504620735130	Marionette	INFO	Listening on port 55927
+1504620735187	Marionette	INFO	Listening on port 55927
+1504620735584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620735640	Marionette	DEBUG	loaded listener.js
+1504620735759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620736189	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620736190	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620739376	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620740412	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620740456	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620740532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620740669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620740954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620740957	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620741175	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620741548	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620741575	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620742129	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620742143	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620742601	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620743538	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620743752	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620744070	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620744079	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620744292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504620744292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504620744292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504620744293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504620744293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504620744294	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504620744294	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1504620744297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1504620744297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1504620744298	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1504620744717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/137-1751267-1801108"
+1504620745314	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/137-1751267-1801108"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+urce://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620748926	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15036] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620751453	Marionette	INFO	Listening on port 56042
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17528] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17528] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620751478	Marionette	INFO	Listening on port 56042
+1504620751802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620751860	Marionette	DEBUG	loaded listener.js
+1504620751899	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620752350	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620752350	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620755636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620756536	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620756834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620756927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620756948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620757043	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620757046	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620757174	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620757268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620757972	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620758366	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620758579	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620758918	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620759692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620759907	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620760269	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620760275	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620760406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504620760407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504620760407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1504620760407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504620760408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1504620760408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1504620760409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1504620760410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1504620760410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1504620760410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1504620760695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/130-6991127-8452449"
+1504620761355	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/130-6991127-8452449"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504620807762	geckodriver	INFO	geckodriver 0.18.0
+1504620807774	geckodriver	INFO	Listening on 127.0.0.1:56191
+1504620809828	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504620810549	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620810945	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620812675	Marionette	INFO	Listening on port 56197
+1504620812703	Marionette	INFO	Listening on port 56197
+1504620812984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620813037	Marionette	DEBUG	loaded listener.js
+1504620813071	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620813509	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620813510	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620816223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620817183	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620817251	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620817357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620817476	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620818333	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620818338	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620818488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620818521	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620818523	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620818594	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620819227	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620819242	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620819966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620820018	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/214q28gHRFL._RC|21d4Z7ov3AL.js,01VtYReatCL.js,41zhCEoqR4L.js,31I-BifbuzL.js,31bJhawORuL.js,41I40+3voZL.js,21s4CoXkkoL.js,21d0m9V5eVL.js,01ePd6UuedL.js,51FdHIKR98L.js,01MZJG6lH8L.js,01QIokpOpzL.js,01NTNyi6e4L.js,01CX6dBfvxL.js,214lo5cb6vL.js,01jG8Exvx6L.js_.js?AUIClients/USHardlinesDetailPageMetaAssetVariable2#desktop.us.109732-T2.108453-T1.103310-T1, line 71: TypeError: b is undefined
+1504620820396	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620820400	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620820539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504620820539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504620820540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1504620820540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504620820540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1504620820541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1504620820541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1504620820542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1504620820544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1504620820545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1504620820816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/132-1515089-8515526"
+1504620821082	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/132-1515089-8515526"
+[GPU 11024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17852] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16096] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16096] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620824386	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620826112	Marionette	INFO	Listening on port 56309
+1504620826126	Marionette	INFO	Listening on port 56309
+1504620826684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620826725	Marionette	DEBUG	loaded listener.js
+1504620826751	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620827155	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620827156	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620828307	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620828311	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620829589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620829592	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620829950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504620830334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620830966	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620831269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504620831765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620831775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620831778	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620831782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620831782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620831782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620831913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=Fresh%20Organic%20Bananas%20Approximately%203%20Lbs%201%20Bunch%20of%206-9%20Bananas&adpage=1&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=2631601%2C21404%2C17300002&client=amazon&channel=g-channel-62%2Bg-channel-223%2Bg-channel-55%2Bg-channel-120%2Bg-channel-305&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n4&ad=n4&nocache=1331504620831230&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504620831234&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504620831917	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=Fresh%20Organic%20Bananas%20Approximately%203%20Lbs%201%20Bunch%20of%206-9%20Bananas&adpage=1&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=2631601%2C21404%2C17300002&client=amazon&channel=g-channel-62%2Bg-channel-223%2Bg-channel-55%2Bg-channel-120%2Bg-channel-305&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n4&ad=n4&nocache=1331504620831230&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504620831234&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504620831919	Marionette	DEBUG	Received DOM event "pageshow" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504620832016	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620832518	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620832549	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620833037	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620833124	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620833848	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620833998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620834122	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620834415	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620834422	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620834672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1504620834672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504620834673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1504620834673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504620834674	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1504620834674	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504620834675	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1504620834675	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1504620834675	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1504620834676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1504620834676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1504620834677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1504620835002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/143-3966636-0737403"
+1504620835507	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/143-3966636-0737403"
+[GPU 12352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620838963	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620841824	Marionette	INFO	Listening on port 56424
+1504620841854	Marionette	INFO	Listening on port 56424
+1504620842195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620842253	Marionette	DEBUG	loaded listener.js
+1504620842292	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620842701	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620842702	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620845468	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620845473	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620846303	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620846305	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620847510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620847513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1504620848172	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620848908	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504620849354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620849357	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620849454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620849486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620849498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620849614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=Fresh%20Organic%20Bananas%20Approximately%203%20Lbs%201%20Bunch%20of%206-9%20Bananas&adpage=1&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404%2C17300002&client=amazon&channel=g-channel-62%2Bg-channel-223%2Bg-channel-55%2Bg-channel-120%2Bg-channel-305&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n4&ad=n4&nocache=7181504620848974&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504620848977&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504620849617	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=Fresh%20Organic%20Bananas%20Approximately%203%20Lbs%201%20Bunch%20of%206-9%20Bananas&adpage=1&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404%2C17300002&client=amazon&channel=g-channel-62%2Bg-channel-223%2Bg-channel-55%2Bg-channel-120%2Bg-channel-305&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n4&ad=n4&nocache=7181504620848974&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504620848977&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504620849620	Marionette	DEBUG	Received DOM event "pageshow" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504620849721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620849786	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620850591	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620851167	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620851170	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620851958	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620852968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620853210	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620853596	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/6104e6DYOJL._RC|11KJC9cObxL.css,31RN0gaJuqL.css,21fiFnLYxlL.css,31ZQTpsW1eL.css,01NHva6qGRL.css,31UlxNhlUML.css,01sYsDokgTL.css_.css?AUIClients/NavDesktopMetaAsset#desktop"
+1504620853616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1504620853622	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/51Zj6XZZ9IL._RC|01evdoiemkL.css,01pVbSC-RPL.css,01K+Ps1DeEL.css,31ucbE7hMML.css,01weYufn8+L.css,11Q+QzSCWIL.css,21XNrWobyaL.css,11L58Qpo0GL.css,21Pd9HarLOL.css,01jl8u4Wi8L.css,21znlrDU3OL.css,01LJGuGyVyL.css,11hxuo-NCqL.css,11vZhCgAHbL.css,21RNFprmuBL.css,11WgRxUdJRL.css,01dU8+SPlFL.css,01otSwXAWaL.css,01SHjPML6tL.css,111-D2qRjiL.css,01QrWuRrZ-L.css,31TwjE5BCgL.css,01zZmWiUTIL.css_.css?AUIClients/AmazonUI#us.not-trident"
+1504620853624	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/51-LYPhMJeL._RC|11zFhuTDFqL.css,21lcA-0gDcL.css,01uwSfX2vxL.css,01bQbKG2BJL.css,010uqF0UmhL.css,11oOVW2SqmL.css,31uTL6-TJHL.css,11MXghh1eBL.css,01hvfEvfPgL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,016xTzXJLfL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,21TMHZS2y1L.css,01JOvs9kD8L.css,01FlII1u-ZL.css,21xKLiG6uEL.css,21thLxrpr2L.css,31-iBjiv47L.css,21PjfsP9YvL.css_.css?AUIClients/USMediaDetailPageMetaAsset#desktop.us.114039-C.102038-T1.108941-T1"
+1504620853624	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/11zFhuTDFqL._RC|11ikU6MX1JL.css,01uwSfX2vxL.css,11oOVW2SqmL.css,21lr10GI3YL.css,01OT3mZ3tNL.css,11xRy3bSkOL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01FlII1u-ZL.css,01KeIGNrFnL.css,01QUs5FVXoL.css,11MXghh1eBL.css,01hvfEvfPgL.css,41A3MwXNi4L.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01rgQ3jqo7L.css,21Ijkd8tJsL.css,31-iBjiv47L.css,11X8K4AolpL.css,21PjfsP9YvL.css,314F2rZxPML.css,014Z+MbaRaL.css,016xTzXJLfL.css,3169f1sLGXL.css,01ZGR4PDSTL.css,218XVPWf2YL.css,01rgQ3jqo7L.css_.css?AUIClients/USHardlinesDetailPageMetaAssetFixed2#desktop.us.not-trident.108310-T1"
+1504620853624	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/416LyOTTWiL._RC|41kk+BrwEDL.css,11zFhuTDFqL.css,31uTL6-TJHL.css,21lcA-0gDcL.css,01uwSfX2vxL.css,11oOVW2SqmL.css,01OT3mZ3tNL.css,41SPGpKPIoL.css,21lr10GI3YL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01KeIGNrFnL.css,01hvfEvfPgL.css,11zlxLNA7DL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01QLwk8mu6L.css,014Z+MbaRaL.css,016xTzXJLfL.css,01ZGR4PDSTL.css,018mGORJ7tL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,01JOvs9kD8L.css_.css?AUIClients/USSoftlinesDetailPageMetaAsset#desktop.us.114039-C.102038-T1.90283-T1"
+1504620853629	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1504620853629	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1504620853629	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1504620853630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1504620853637	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/01LMjsmRmmL._RC|013M5VFdBhL.css_.css?AUIClients/DetailPageTurboCheckoutDesktopMetaAsset"
+1504620853637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1504620853660	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/31-iBjiv47L.css?AUIClients/DetailPageOffersDPv2Assets"
+1504620853662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1504620853670	Marionette	DEBUG	Received DOM event "pagehide" for "https://images-na.ssl-images-amazon.com/images/I/61bL%2BpJQTLL._RC|31uTL6-TJHL.css,21lcA-0gDcL.css,412U7OlU5-L.css,21xKLiG6uEL.css,21thLxrpr2L.css,31MyzjXZJnL.css,21OvmvtAfDL.css,3124KBJbE1L.css,21AfeXszZhL.css,31347dD3CTL.css,011SxWiS3YL.css,01NW8VTUeVL.css,01JOvs9kD8L.css,31j4n5vuY7L.css,01MMsHBol-L.css_.css?AUIClients/USHardlinesDetailPageMetaAssetVariable2#us.114039-C.94099-T1.102038-T1.108941-T1.98916-T1"
+1504620853671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1504620853678	Marionette	DEBUG	Received DOM event "pagehide" for "https://s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=0101a69528bc437c160b823f8dffde50531a66a0a80ec00a8f4cc9abe892dcff94f0&old_oo=0&cb=1504620842643"
+1504620854111	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620854116	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620854303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1504620854303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504620854304	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1504620854304	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504620854305	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1504620854305	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504620854306	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1504620854306	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1504620854306	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1504620854306	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1504620854311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1504620854312	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1504620855089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/140-1039344-6289743"
+1504620855669	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/140-1039344-6289743"
+[GPU 340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620859047	Marionette	INFO	Enabled via --marionette
+1504620860966	Marionette	INFO	Listening on port 56565
+1504620860976	Marionette	INFO	Listening on port 56565
+1504620861795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620861868	Marionette	DEBUG	loaded listener.js
+1504620861907	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620862302	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620862302	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620863555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620863615	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620864627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620864693	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620864863	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1504620865234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620865577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504620866609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620866609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620866715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620866716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=Fresh%20Organic%20Bananas%20Approximately%203%20Lbs%201%20Bunch%20of%206-9%20Bananas&adpage=1&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404%2C17300002&client=amazon&channel=g-channel-62%2Bg-channel-223%2Bg-channel-55%2Bg-channel-120%2Bg-channel-305&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n4&ad=n4&nocache=8881504620865843&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504620865846&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504620866721	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=Fresh%20Organic%20Bananas%20Approximately%203%20Lbs%201%20Bunch%20of%206-9%20Bananas&adpage=1&ccfn=amazon_numbered_three_column_for_non_Search&r=m&fexp=21404%2C17300002&client=amazon&channel=g-channel-62%2Bg-channel-223%2Bg-channel-55%2Bg-channel-120%2Bg-channel-305&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&format=n4&ad=n4&nocache=8881504620865843&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=330&dt=1504620865846&u_w=1280&u_h=720&biw=-12245933&bih=-12245933&isw=1227&ish=1&psw=1227&psh=0&frm=2&uio=uv3-&jsv=10473&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1504620866724	Marionette	DEBUG	Received DOM event "pageshow" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1504620866853	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620866899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620866949	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620867262	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620867263	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620867264	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620867266	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620867268	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14960] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+m:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620951168	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504620952956	Marionette	INFO	Listening on port 56757
+1504620952966	Marionette	INFO	Listening on port 56757
+1504620953542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620953595	Marionette	DEBUG	loaded listener.js
+1504620953628	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620954021	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620954021	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620957068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620957931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620958070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620958070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620958256	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620958283	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620958510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620958583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620958584	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620959120	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620959353	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620959466	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620959678	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620960466	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620960469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504620965623	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620965910	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620965915	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620966111	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504620966111	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504620966112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504620966113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504620966113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1504620966113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1504620966113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504620966114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504620966114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1504620966115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1504620966589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/132-5786022-5879328"
+1504620967151	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/132-5786022-5879328"
+1504620967475	geckodriver	INFO	geckodriver 0.18.0
+1504620967488	geckodriver	INFO	Listening on 127.0.0.1:56859
+1504620969517	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504620969826	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504620970296	Marionette	INFO	Enabled via --marionette
+1504620972212	Marionette	INFO	Listening on port 56866
+1504620972240	Marionette	INFO	Listening on port 56866
+1504620972669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504620972726	Marionette	DEBUG	loaded listener.js
+1504620972772	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504620973166	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504620973166	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504620976542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620977326	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620977759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620977780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620977781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504620977781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620977789	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504620978313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504621108161	geckodriver	INFO	geckodriver 0.18.0
+1504621108170	geckodriver	INFO	Listening on 127.0.0.1:56945
+1504621110238	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504621110537	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504621110959	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6076] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\I341533\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13304] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13304] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504621112855	Marionette	INFO	Listening on port 56952
+1504621112865	Marionette	INFO	Listening on port 56952
+1504621113399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504621113437	Marionette	DEBUG	loaded listener.js
+1504621113465	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504621113865	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504621113865	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504621117120	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504621117949	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504621118166	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504621118460	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504621118461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504621118461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504621118464	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504621118512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504621118711	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504621119131	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504621119523	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504621119554	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html"
+1504621119680	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504621124201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504621127309	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504621127609	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504621127621	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/B00ZVIWWB6/ref=s9_acsd_zgift_hd_bw_b76MijT_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=8P2JCCPXSGC93QTWGWPW&pf_rd_t=101&pf_rd_p=958c4757-9b7c-56d4-b8be-29f694ada9a1&pf_rd_i=6507003011"
+1504621127940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1504621127940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1504621127941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1504621127941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504621127942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1504621127942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1504621127942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1504621127943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1504621127943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1504621127944	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1504621128374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/134-6511118-6316952"
+1504621128897	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/134-6511118-6316952"
+1504621132094	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/134-6511118-6316952"
+1504621132351	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/134-6511118-6316952"
+1504621132356	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/cart/view.html/ref=nav_cart/134-6511118-6316952"
+1504621132479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1504621132479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1504621133042	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0|zipcode.|zipcode."
+1504621133085	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0|zipcode.|zipcode."
+1504621133119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0|zipcode.|zipcode."
+1504621133584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/remotepagelet/signin/checkout-perf-initiate-and-store.html?ie=UTF8&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0%7Czipcode.%7Czipcode.&hasWorkingJavascript=1"
+1504621133585	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/remotepagelet/signin/checkout-perf-initiate-and-store.html?ie=UTF8&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0%7Czipcode.%7Czipcode.&hasWorkingJavascript=1"
+1504621133593	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0|zipcode.|zipcode."
+1504621133808	geckodriver	INFO	geckodriver 0.18.0
+1504621133821	geckodriver	INFO	Listening on 127.0.0.1:57065
+1504621135956	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504621136339	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504621137130	Marionette	INFO	Enabled via --marionette
+1504621139693	Marionette	INFO	Listening on port 57074
+1504621139736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504621139750	Marionette	INFO	Listening on port 57074
+1504621139794	Marionette	DEBUG	loaded listener.js
+1504621139848	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504621140249	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504621140249	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
